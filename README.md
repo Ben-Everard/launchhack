@@ -1,4 +1,4 @@
-# thinkster-django-angular-boilerplate
+# launchhack
 
 ## Installation
 
@@ -7,9 +7,9 @@
 [Node.js](http://nodejs.org/).*
 
 * Fork this repository.
-* `$ git clone git@github.com:<your username>/thinkster-django-angular-boilerplate.git`
-* `$ mkvirtualenv thinkster-djangular`
-* `$ cd thinkster-django-angular-boilerplate/`
+* `$ git clone git@github.com:Woundedmarlin/launchhack.git`
+* `$ mkvirtualenv launchhack`
+* `$ cd launchhack/`
 * `$ pip install -r requirements.txt`
 * `$ npm install -g bower`
 * `$ npm install`
